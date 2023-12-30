@@ -52,4 +52,7 @@ const products = [
   
   // Initial setup
   displayProducts();
+
+  // Function to display trending products
+  
   
